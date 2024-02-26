@@ -1,2 +1,2 @@
-Welcome to the Machine Learning Repository! Here, you'll find a vast collection of datasets, algorithms, and resources to support your journey in machine learning and data science. Whether you're a novice or an expert, this repository is designed to provide you with valuable tools and information to advance your projects and research.
+Welcome to the Machine Learning Repository! Here, you'll find a vast collection of datasets, algorithms, and resources to support your journey in machine learning and data science. Whether you're a novice or an expert, this repository is designed to provide you with valuable tools and information to advance your projects and research.<br>
 Explore: Browse through my collection of datasets to find what suits your project or research needs.
